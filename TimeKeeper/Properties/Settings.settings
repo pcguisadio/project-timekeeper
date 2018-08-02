@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TimeKeeper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FamilyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Guisadio</Value>
+    </Setting>
+    <Setting Name="FirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Peter Clark</Value>
+    </Setting>
+    <Setting Name="EmployeeNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">001247696</Value>
+    </Setting>
+    <Setting Name="TemplateFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">template.xlsm</Value>
+    </Setting>
+    <Setting Name="TimeIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3 PM</Value>
+    </Setting>
+    <Setting Name="SheetNumber" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CustomSavePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
