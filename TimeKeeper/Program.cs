@@ -28,12 +28,15 @@ namespace TimeKeeper
                 if (DateTime.Today.Day < 6)
                 {
                     month--;
+                    if (month < 1) {
+                        month = 12
+                        year--;
+                    }
                     startday = 21;
                     endDay = 5;
                 }
                 else if (DateTime.Today.Day > 20)
                 {
-                    month++;
                     startday = 21;
                     endDay = 5;
                 }
